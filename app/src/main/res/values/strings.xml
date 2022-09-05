@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="message_invalid_connection">Verifique sua conexão com a internet</string>
+    <string name="message_invalid_api_key">Chave de acesso inválida!</string>
+    <string name="message_invalid_error">Ocorreu um erro nesta aplicação!</string>
+    <string name="message_success_added">Filme adicionado na lista de favoritos</string>
+    <string name="message_success_removed">Filme removido da lista de favoritos</string>
+    <string name="message_try_again">TENTAR NOVAMENTE</string>
+
+    <string name="search_hint">Pesquisar</string>
+
+    <string name="search_default_description">Encontre seus filmes, séries e artistas favoritos</string>
+    <string name="search_default_title">Busca TMDB</string>
+
+    <string name="search_not_found_description">Verifique se você digitou corretamente as palavras</string>
+    <string name="search_not_found_try_it_again">Tente novamente mais tarde</string>
+    <string name="search_not_found_title">Nenhum resultado encontrado</string>
+
+    <string name="details_genres">Gêneros:</string>
+    <string name="details_title">Título original:</string>
+    <string name="details_description">Estúdios:</string>
+    <string name="details_production_country">Produção:</string>
+    <string name="details_company_production">Empresas:</string>
+    <string name="details_runtime">Duração:</string>
+    <string name="details_crew">Elenco:</string>
+
+    <string name="details_votes">votos</string>
+    <string name="details_no_overview">Ainda não temos uma descrição</string>
+</resources>
